@@ -1,6 +1,7 @@
 let data;
 axios.get("https://raw.githubusercontent.com/AlbertoTsuei/TourTicketSystem/main/Data/travelAPI.json").then(function (response) {
   data = response.data;
+  console.log(data);
   init();
   renderC3();
 })
