@@ -6,7 +6,7 @@
         "area": "基隆",
         "description": "乘坐郵輪暢洋北海岸，現撈海鮮好滋味！",
         "group": 35,
-        "price": 770,
+        "price": 4200,
         "rate": 10
     },
     {
@@ -16,7 +16,7 @@
         "area": "台北",
         "description": "乘坐以透明強化玻璃為地板的「貓纜之眼」水晶車廂，享受騰雲駕霧遨遊天際之感",
         "group": 99,
-        "price": 240,
+        "price": 540,
         "rate": 6
     },
     {
@@ -38,5 +38,25 @@
         "group": 87,
         "price": 1400,
         "rate": 8
+    },
+    {
+        "id": 4,
+        "name": "Xpark 水族秀",
+        "imgUrl": "https://images.unsplash.com/photo-1508625935447-e0ebc2cdf6bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "area": "桃園",
+        "description": "首座都會型水生公園，透過空間演出與科技的融合，將地球各地域的生態忠實呈現",
+        "group": 66,
+        "price": 600,
+        "rate": 6
+    },
+    {
+        "id": 5,
+        "name": "奇美博物藝術饗宴",
+        "imgUrl": "https://images.unsplash.com/photo-1650178996513-9dc83775e39c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "area": "台南",
+        "description": "臺灣館藏最豐富的私人博物館。擁有全球數量最多小提琴收藏，其中包含世界各大製琴師名作。",
+        "group": 88,
+        "price": 1200,
+        "rate": 7
     }
 ]
