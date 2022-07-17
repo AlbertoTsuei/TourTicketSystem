@@ -1,5 +1,5 @@
 let data;
-axios.get("https://raw.githubusercontent.com/hexschool/js-training/main/travelAPI-lv1.json").then(function (response) {
+axios.get("https://raw.githubusercontent.com/AlbertoTsuei/TourTicketSystem/main/Data/travelAPI.json").then(function (response) {
   data = response.data;
   init();
   renderC3();
