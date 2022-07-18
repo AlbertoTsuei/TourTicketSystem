@@ -2,6 +2,8 @@
 
 使用原生JS設計具RWD單頁旅遊票券新增與查詢，並使用 C3.js 將數字透過圖表具現化呈現。
 
+[Demo](https://albertotsuei.github.io/TourTicketSystem/)
+
 ◎ 使用 JavaScript 開發
 
 ◎ 使用 C3.js 將數字透過圖表具現化呈現
